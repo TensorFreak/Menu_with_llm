@@ -1,0 +1,40 @@
+Cafés, Espresso
+Cafés, Doble
+Cafés, Americano
+Cafés, Coffee
+Cafés, Late
+Cafés, Cappuccino
+Bebidas frías, Coffee frio
+Bebidas frías, Frappe
+Bebidas frías, Late Frio
+Bebidas frías, Sodas
+Jugos Frescos, Naranja
+Jugos Frescos, Toronja
+Smoothies, Tahiti (naranja, piña y fresas)
+Smoothies, Bora Bora (naranja, piña manzana, limon)
+Smoothies, Moorea (banana, piña, leche de coco, yogurt)
+Smoothies, Maui (mango, coco,leche de soya, yogurt)
+Smoothies, Waikiki (fresa, frambuesa, arandano)
+Smoothies, Fiji (papaya, melon, orange, lime)
+Desayunos, Huevos Revueltos (Jamon , salchicha , nopal, frijoles refritos)
+Desayunos, Huevos Motuleños (2 huevos fritos sobre tortilla, salsa roja , jamon y platano frito)
+Desayunos, Huevos Rancheros(2 huevos fritos sobre tortilla,Salsa roja , frijoles refritos)
+Desayunos, Sandwich de Huevo (Huevos revueltos con tocino , salchicha , Aguacate ,ensalada)
+Desayunos, Club Sandwich (Jamon de Pavo, Tocino, Pollo, Queso, Lechuga , Papas Fritas)
+Desayunos, Papas mix (Papas fritas,Huevo , Ensalada)
+Desayunos, Chilaquiles con Pollo
+Desayunos, Chilaquiles con Huevo
+A cualquier hora, TIKI Taco (3 tacos de puerco)
+A cualquier hora, Taco Arrachera (3 tacos)
+A cualquier hora, Baja Taco (3 shrimp taco)
+A cualquier hora, Hamburguesa Viva Tikila (Arrachera, Jamon de Pavo, Queso oaxaca,Tocino, Lechuga, pimiento,aceituna,huevo frito)
+A cualquier hora, Hamburguesa de Pollo (Pechuga de Pollo, Queso Oaxaca,cebolla al teriyaki, piña asada)
+A cualquier hora, Guacamole tradicional
+A cualquier hora, Guacamole TIKI
+A cualquier hora, Arrachera Musubi (3 nigiris con Tocino, arrachera asada con salsa teriyaki)
+A cualquier hora, Bruschetta Huli Huli (Pechuga de Pollo,cebolla , piña, miel, mostaza,Platano frito)
+A cualquier hora, Aguachile de Camaron (Camarones al coco , cilantro, rabano, gengibre, chile negro)
+A cualquier hora, Poke Tuna (filete de Atun marinado con salsa de soya , salsa tabasco, aguacate ,pepino )
+A cualquier hora, Lumi Lumi de salmon (Salmon Marinado al mango, Piña , Aceite de aceituna picante)
+A cualquier hora, Lumi Lumi de Camaron (Camarones con limon amarillo , rabano,Chile serrano,Aceite de ajonjoli)
+A cualquier hora, Camarones al Coco (Camarones capeados al coco, salsa de mango picante , sweet potato pure)

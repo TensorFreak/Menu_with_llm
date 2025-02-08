@@ -1,0 +1,45 @@
+Cafés, Café - A classic coffee made with freshly ground beans and hot water.
+Cafés, Double - A stronger coffee made with twice the amount of coffee grounds.
+Cafés, Americano - A coffee made by diluting an espresso shot with hot water.
+Cafés, Coffee - A standard coffee made with hot water and coffee grounds.
+Cafés, Late - A coffee made with espresso and steamed milk.
+Cafés, Cappuccino - A coffee made with equal parts espresso, steamed milk, and milk foam.
+
+Cold Drinks, Iced Coffee - A refreshing coffee beverage made with cold brewed coffee and ice.
+Cold Drinks, Frappe - A blended iced coffee beverage made with instant coffee, milk, and sugar.
+Cold Drinks, Iced Late - A chilled coffee beverage made with espresso and cold milk.
+Cold Drinks, Sodas - A variety of carbonated soft drinks.
+
+Fresh Juices, Orange - Freshly squeezed juice made from oranges.
+Fresh Juices, Grapefruit - Freshly squeezed juice made from grapefruits.
+
+Smoothies, Tahiti - A fruity smoothie made with oranges, pineapples, and strawberries.
+Smoothies, Bora Bora - A tropical smoothie made with oranges, pineapples, apples, and lemons.
+Smoothies, Moorea - A creamy smoothie made with bananas, pineapples, coconut milk, and yogurt.
+Smoothies, Maui - A tropical smoothie made with mangoes, coconuts, soy milk, and yogurt.
+Smoothies, Waikiki - A fruity smoothie made with strawberries, raspberries, and cranberries.
+Smoothies, Fiji - A refreshing smoothie made with papayas, melons, oranges, and limes.
+
+Breakfasts, Scrambled Eggs - A hearty breakfast dish made with scrambled eggs, ham, sausage, nopal, and refried beans.
+Breakfasts, Motuleño Eggs - A traditional Mexican breakfast dish made with fried eggs, ham, red sauce, and fried plantain on a tortilla.
+Breakfasts, Ranchero Eggs - A Mexican breakfast dish made with fried eggs, red sauce, and refried beans on a tortilla.
+Breakfasts, Egg Sandwich - A savory breakfast sandwich made with scrambled eggs, bacon, sausage, avocado, and salad.
+Breakfasts, Club Sandwich - A classic sandwich made with turkey ham, bacon, chicken, cheese, lettuce, and fries.
+Breakfasts, Mixed Fries - A breakfast dish made with fries, egg, and salad.
+Breakfasts, Chilaquiles with Chicken - A traditional Mexican breakfast dish made with fried tortilla chips, chicken, red sauce, and cheese.
+Breakfasts, Chilaquiles with Egg - A traditional Mexican breakfast dish made with fried tortilla chips, egg, red sauce, and cheese.
+
+At any time, TIKI Taco - A delicious taco dish made with 3 pork tacos.
+At any time, Arrachera Taco - A savory taco dish made with 3 arrachera tacos.
+At any time, Shrimp Taco - A tasty taco dish made with 3 shrimp tacos.
+At any time, Viva Tikila Burger - A mouth-watering burger made with skirt steak, turkey ham, Oaxaca cheese, bacon, lettuce, pepper, olive, and fried egg.
+At any time, Chicken Burger - A juicy burger made with chicken breast, Oaxaca cheese, teriyaki onion, grilled pineapple.
+At any time, Traditional Guacamole - A classic Mexican dip made with avocados, onions, tomatoes, and cilantro.
+At any time, TIKI Guacamole - A spicy guacamole made with avocados, jalapenos, onions, tomatoes, and cilantro.
+At any time, Arrachera Musubi - A delicious dish made with 3 nigiris topped with bacon and grilled skirt steak with teriyaki sauce.
+At any time, Huli Huli Chicken Bruschetta - A flavorful dish made with chicken breast, onion, pineapple, honey, mustard, fried plantain.
+At any time, Shrimp Aguachile - A zesty dish made with coconut shrimp, cilantro, radish, ginger, black chile.
+At any time, Tuna Poke - A refreshing dish made with tuna steak marinated with soy sauce, Tabasco sauce, avocado, cucumber.
+At any time, Salmon Lumi Lumi - A tangy dish made with salmon marinated with mango, pineapple, spicy olive oil.
+At any time, Shrimp Lumi Lumi - A zesty dish made with shrimp with yellow lemon, radish, serrano chile, sesame oil.
+At any time, Coconut Shrimp - A crispy dish made with breaded coconut shrimp, spicy mango sauce, sweet potato puree.

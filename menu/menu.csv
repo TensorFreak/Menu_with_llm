@@ -1,0 +1,41 @@
+category,name,price
+Cafés,Espresso,40
+Cafés,Doble,50
+Cafés,Americano,50
+Cafés,Coffee,50
+Cafés,Late,60
+Cafés,Cappuccino,60
+Bebidas frías,Coffee frio,50
+Bebidas frías,Frappe,60
+Bebidas frías,Late Frio,60
+Bebidas frías,Sodas,35
+Jugos Frescos,Naranja,45
+Jugos Frescos,Toronja,45
+Smoothies,"Tahiti (naranja, piña y fresas)",60
+Smoothies,"Bora Bora (naranja, piña manzana, limon)",60
+Smoothies,"Moorea (banana, piña, leche de coco, yogurt)",69
+Smoothies,"Maui (mango, coco,leche de soya, yogurt)",65
+Smoothies,"Waikiki (fresa, frambuesa, arandano)",69
+Smoothies,"Fiji (papaya, melon, orange, lime)",69
+Desayunos,"Huevos Revueltos (Jamon , salchicha , nopal, frijoles refritos)",75
+Desayunos,"Huevos Motuleños (2 huevos fritos sobre tortilla, salsa roja , jamon y platano frito)",95
+Desayunos,"Huevos Rancheros(2 huevos fritos sobre tortilla,Salsa roja , frijoles refritos)",85
+Desayunos,"Sandwich de Huevo (Huevos revueltos con tocino , salchicha , Aguacate ,ensalada)",100
+Desayunos,"Club Sandwich (Jamon de Pavo, Tocino, Pollo, Queso, Lechuga , Papas Fritas)",120
+Desayunos,"Papas mix (Papas fritas,Huevo , Ensalada)",95
+Desayunos,Chilaquiles con Pollo,115
+Desayunos,Chilaquiles con Huevo,95
+A cualquier hora,TIKI Taco (3 tacos de puerco),95
+A cualquier hora,Taco Arrachera (3 tacos),145
+A cualquier hora,Baja Taco (3 shrimp taco),150
+A cualquier hora,"Hamburguesa Viva Tikila (Arrachera, Jamon de Pavo, Queso oaxaca,Tocino, Lechuga, pimiento,aceituna,huevo frito)",190
+A cualquier hora,"Hamburguesa de Pollo (Pechuga de Pollo, Queso Oaxaca,cebolla al teriyaki, piña asada)",140
+A cualquier hora,Guacamole tradicional,85
+A cualquier hora,Guacamole TIKI,95
+A cualquier hora,"Arrachera Musubi (3 nigiris con Tocino, arrachera asada con salsa teriyaki)",135
+A cualquier hora,"Bruschetta Huli Huli (Pechuga de Pollo,cebolla , piña, miel, mostaza,Platano frito)",146
+A cualquier hora,"Aguachile de Camaron (Camarones al coco , cilantro, rabano, gengibre, chile negro)",165
+A cualquier hora,"Poke Tuna (filete de Atun marinado con salsa de soya , salsa tabasco, aguacate ,pepino )",165
+A cualquier hora,"Lumi Lumi de salmon (Salmon Marinado al mango, Piña , Aceite de aceituna picante)",165
+A cualquier hora,"Lumi Lumi de Camaron (Camarones con limon amarillo , rabano,Chile serrano,Aceite de ajonjoli)",155
+A cualquier hora,"Camarones al Coco (Camarones capeados al coco, salsa de mango picante , sweet potato pure)",195
